@@ -10,7 +10,6 @@
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5",
     "fs": "^0.0.1-security",
-    "kindlegen": "^1.1.0",
     "lodash": "^4.17.21",
     "omnia-ebook-generator": "^0.2.1"
   }
